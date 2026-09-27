@@ -6,6 +6,8 @@
 
 Стек: React 19, TypeScript, Vite. 
 
+Онлайн-версия: https://hyphene390.github.io/green-api/
+
 ## Запуск
 
 Локально:
